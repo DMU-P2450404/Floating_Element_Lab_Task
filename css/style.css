@@ -1,0 +1,21 @@
+img {
+  width: 25%;
+  min-width: 100px;
+  float: left;
+}
+
+section {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+nav div {
+  float: left;
+  width: 46%;
+  text-align: center;
+  padding: 20px;
+  margin: 2%;
+  background-color: #7626af;
+  box-sizing: border-box;
+}
